@@ -4,6 +4,6 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class App {
     public static void main(String[] args) {
-        System.out.println("Triggering Poll 123");
+        System.out.println("Sargate Jenkins Demo");
     }
 }
